@@ -13,5 +13,4 @@ an outline of the steps you will take to analyze your data (mostly a description
 any heuristics or mathematical models that you use, and the reasons for their use
 
 ### Deliverables
-a description of the deliverable files in the repo, incl. where your presentation is
-
+At the end of this project, we will present our findings in a presentation using Google slides. We will show the original and cleaned data sets in output folder and the pictures in images folder.
