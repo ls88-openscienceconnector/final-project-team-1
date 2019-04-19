@@ -10,6 +10,8 @@ What license is available?
 
 Can you open the project files?
 
+
+
 The license is CC0 - "Public Domain Dedication" . 
 
 Yes, we can open the project files. 
