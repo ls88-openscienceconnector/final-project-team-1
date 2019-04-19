@@ -1,4 +1,5 @@
 What is the quality (you can use F.A.I.R) of the information?
+ 
  -F: The medata and data is easily findable because the readme file explicility states that the "LA_CRS_recoded.dta" dataset      is used for all analyses.
 
  -A: The data is accessible and retrievable because the identifier communicates includes the data as one of the files of the replication data. The file is named "LA_CRS_recoded.tab". The data will be accessible even when the data is no longer available because it is saved within the files of the dataverse.
