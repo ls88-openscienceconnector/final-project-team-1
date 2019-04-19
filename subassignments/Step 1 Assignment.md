@@ -9,18 +9,26 @@ What is the quality (you can use F.A.I.R) of the information?
  -R: The data is reusable because the "SSQ - Louisiana Floods Replication.do": Stata .do file contains all commands for replicating table and figure, and Supplemental Appendix analyses.
 
 
+
 What is the provenance and collection method of the data?
  
  -The data is collected using the analyses in "Who'll Stop the Rain? Repeated Disasters and Attitudes Toward Government," published in Social Science Quarterly, by Joshua P. Darr, Sarah D. Cate, and Daniel S. Moak. 
 
 
+
 What are the hypotheses of the project?
 
+
+
 What are the research methods?
+
+
 
 What license is available?
 
 -The license is CC0 - "Public Domain Dedication" . 
+
+
 
 Can you open the project files?
 
