@@ -3,7 +3,7 @@
 Dilang Lin,  Anika Cruz, Dipika Khullar
 # Directory Structure
 |  Folder  |      Description      	|
-|----------	|:-------------	|
+|----------	|-------------	|
 | data 	|Data from the original analysis in DTA and DO format|
 | notebooks 	|Jupyter Notebook files, including reproduction analysis using both pandas and datascience, as well as the Pre-Analysis Plan and a "blank" notebook|
 | images 	|images files used in the Jupyter Notebooks|
