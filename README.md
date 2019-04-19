@@ -28,7 +28,7 @@ any heuristics or mathematical models that you use, and the reasons for their us
 ### Deliverables
 a description of the deliverable files in the repo, incl. where your presentation is
 
-### Sources
+# Sources
 Achen, Christopher H., and Bartels, Larry M.. 2012. “ Blind Retrospection: Why Shark Attacks Are Bad for Democracy.” Working Paper.
 
 Anderson, Cameron D. 2006. “ Economic Voting and Multilevel Governance: A Comparative Individual‐Level Analysis.” American Journal of Political Science 50( 2): 449– 63.
