@@ -1,6 +1,7 @@
 # L&S 88 - Final Project - "Who'll Stop the Rain? Repeated Disasters and Attitudes Toward Government"
 
 Dilang Lin,  Anika Cruz, Dipika Khullar
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project-team-1/master)
 # Directory Structure
 |  Folder  |      Description      	|
 |----------	|-------------	|
