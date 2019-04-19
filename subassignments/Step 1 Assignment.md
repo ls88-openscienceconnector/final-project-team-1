@@ -18,7 +18,9 @@ What are the hypotheses of the project?
 What are the research methods?
 
 What license is available?
+
 --The license is CC0 - "Public Domain Dedication" . 
 
 Can you open the project files?
+
 --Yes, we can open the project files. 
