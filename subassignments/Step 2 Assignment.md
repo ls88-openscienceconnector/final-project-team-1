@@ -8,6 +8,10 @@ Figure 1 contains 3 smaller figures which extract data from 3 data sets: figure_
 ### Strategy
 1. Upload csv files
 2. Remove outliers in data: bot-like panel members in addition to exclusion criterion in paper
+3. Plot Website Exposures
+4. Plot Shares of Panel Members 
+5. Plot Exposures of Panel Members
+6. Plot the Exposures per day
 
 
 ### Analysis
