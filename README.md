@@ -13,12 +13,3 @@ Dilang Lin,  Anika Cruz, Dipika Khullar
 | subassignments 	|Markdown files with submissions for final project sub-assignments|
 
 # Sources
-Achen, Christopher H., and Bartels, Larry M.. 2012. “ Blind Retrospection: Why Shark Attacks Are Bad for Democracy.” Working Paper.
-
-Anderson, Cameron D. 2006. “ Economic Voting and Multilevel Governance: A Comparative Individual‐Level Analysis.” American Journal of Political Science 50( 2): 449– 63.
-
-Arami, Reiko. 2018. “ How Did the ‘Coercive Boundary’ Break the Community Ties? Evidence from the Fukushima Evacuation Case in Tomioka‐machi.” Paper presented at the Annual Meeting of the Southern Political Science Association, New Orleans, LA, January 4–6.
-
-Arceneaux, Kevin. 2006. “ The Federal Face of Voting: Are Elected Officials Held Accountable for the Functions Relevant to Their Office?” Political Psychology 27( 5): 731– 54.
-
-Arceneaux, Kevin, and Stein, Robert. 2006. “ Who Is Held Responsible When Disaster Strikes? The Attribution of Responsibility for a Natural Disaster in an Urban Election.” Journal of Urban Affairs 28( 1): 43– 53.
