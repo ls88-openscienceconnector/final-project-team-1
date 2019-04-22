@@ -5,7 +5,8 @@
 
  -A: : The data is accessible, we are able to download every folder to our local machines. 
 
- -I:  Interoperability is a characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions. We can upload our files to github, and if we wanted to, we would be able to work on other machines. 
+ -I:  Interoperability is a characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions. 
+ Since we can upload our files to github, and are able to perform computation on other machines if need be, this characteristic is met. 
 
  -R: This data seems to be reusable. Not only are the data sets all available, but instructions for reusability are available in the readme. 
 
