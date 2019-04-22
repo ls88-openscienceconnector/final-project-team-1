@@ -1,4 +1,4 @@
-# L&S 88 - Final Project - "Who'll Stop the Rain? Repeated Disasters and Attitudes Toward Government"
+# L&S 88 - Final Project - LazerLab/twitter-fake-news-replication: Public Replication Package for Fake news on Twitter
 
 Dilang Lin,  Anika Cruz, Dipika Khullar
 
