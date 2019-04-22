@@ -14,8 +14,7 @@
 
 
 ## What is the provenance and collection method of the data?
- 
- - Repository for public code and data associated with the paper "Fake News on Twitter During the 2016 U.S. Presidential Election
+Repository for public code and data associated with the paper "Fake News on Twitter During the 2016 U.S. Presidential Election
 
 
 
