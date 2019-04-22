@@ -1,32 +1,29 @@
 ## What is the quality (you can use F.A.I.R) of the information?
  
- -F: The medata and data is easily findable because the readme file explicility states that the "LA_CRS_recoded.dta" dataset      is used for all analyses.
+ -F: The data is clearly findable. We are able to find exactly what data ets correspond to which part of the analysis 
 
- -A: The data is accessible and retrievable because the identifier communicates includes the data as one of the files of the replication data. The file is named "LA_CRS_recoded.tab". The data will be accessible even when the data is no longer available because it is saved within the files of the dataverse.
 
- -I: The data is interoperable because it is used for analysis and storage within the tables the replication process requires.
+ -A: : The data is accessible, we are able to download every folder to our local machines. 
 
- -R: The data is reusable because the "SSQ - Louisiana Floods Replication.do": Stata .do file contains all commands for replicating table and figure, and Supplemental Appendix analyses.
+ -I:  Interoperability is a characteristic of a product or system, whose interfaces are completely understood, to work with other products or systems, at present or in the future, in either implementation or access, without any restrictions. We can upload our files to github, and if we wanted to, we would be able to work on other machines. 
+
+ -R: This data seems to be reusable. Not only are the data sets all available, but instructions for reusability are available in the readme. 
+
 
 
 
 ## What is the provenance and collection method of the data?
  
- -The data is collected using the analyses in "Who'll Stop the Rain? Repeated Disasters and Attitudes Toward Government," published in Social Science Quarterly, by Joshua P. Darr, Sarah D. Cate, and Daniel S. Moak. 
+ - Repository for public code and data associated with the paper "Fake News on Twitter During the 2016 U.S. Presidential Election
 
 
 
 ## What are the hypotheses of the project?
-The hypotheses of the project is that prior experience with government agencies establishes expectations of responsibility that endure years later. 
-
-In Louisiana, two extreme weather events, 11 years apart, required intervention from the state and federal government: Hurricane Katrina in 2005 and the 2016 floods. This study examines Louisianans’ attitudes toward government. The hypothesis is that their experiences with government prior led them to have certain expectations from these agencies in the future. 
+Individuals most likely to engage with fake news sources were conservative leaning, older, and highly engaged with political news
 
 
 ## What are the research methods?
-Initially the "research" was getting the data. The study uses an original survey of Louisianans to assess the role of Katrina experience in performance assessments of Federal Emergency Management Agency (FEMA) and the Louisiana state government in 2016.
-
-After data collection, our research methods come in the form of data analysis. It looks like the main form of research done to the datasets was exploratory data analysis and regression techniques. This allowed them to determine whether there was a strongly positive or negative correlation.
-
+Research methods include exploratory data analysis, and examining highly correlated features between data from 2016.  
 
 
 ## What license is available?
