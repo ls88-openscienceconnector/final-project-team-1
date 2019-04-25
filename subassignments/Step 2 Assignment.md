@@ -6,12 +6,12 @@ This project analyzes the exposure to and sharing of fake news through data coll
 Figure 1 contains 3 smaller figures which extract data from 3 data sets: figure_1b_data.csv, figure_1c_data.csv, and figure_1d_data.csv. These data sets account for the daily counts of fake news quantities in accordance to voters’ exposure. The data sets include: number of days after election days, number of red, orange, and black fake news sites users are exposed to, the total number of exposures in one day, the date of this day, the percentages of all shares and exposures to red, orange, black, and fake news sites. 
 
 ### Strategy
+First, we will load the data from the CSV files and explore this data. We will categorize the variables, sort the data, remove outliers in the data (such as, bot-like panel members in addition to exclusion criterion in paper), and then we will plot the relevant data (Website Exposures). Then, we will observe if the percentage of fake news increases closer to the election by observing the inflection points in the plots.
+
 1. Upload csv files
 2. Remove outliers in data: bot-like panel members in addition to exclusion criterion in paper
-3. Plot Website Exposures
-4. Plot Shares of Panel Members 
-5. Plot Exposures of Panel Members
-6. Plot the Exposures per day
+3. Plot Website Exposures per month (plot for black, red, orange websites)
+7. Observe data at inflection points and as time progresses closer to election date
 
 
 ### Analysis
