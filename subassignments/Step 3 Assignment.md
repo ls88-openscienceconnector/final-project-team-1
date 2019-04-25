@@ -1,6 +1,5 @@
 
- ### Hypothesis Test:
- Voters during the 2016 election are most likely to engage with fake news sources were conservative leaning, older, and highly engaged with political news
+ # Hypothesis Test:
  
  ### Identify Variables to test on:
 ts_rel_days - Number of days before (negative) or after (positive) election day
@@ -27,6 +26,8 @@ pct_fake - percentage of all shares/exposures that were to/from any fake news si
  Exporatory data analysis, Observation of percentage of fake news closer to election 
  
  ### Null Hypothesis:
+ Voters during the 2016 election are most likely to engage with fake news sources were conservative leaning, older, and highly engaged with political news
+ ## Figure Specific:
  Fake News sources in aggregate politcal exposures increased during months closer to 2016 election day.
  
  ### Are there variables to group or sort by? 
