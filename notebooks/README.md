@@ -2,6 +2,7 @@
 
 This folder contains the Jupyter Notebook files for this project.
 
+## Example :
 | File | Description |
 |-----|-----|
 | `blank-notebook.ipynb`  | information on common table operations using both `datascience` and `pandas`  |
