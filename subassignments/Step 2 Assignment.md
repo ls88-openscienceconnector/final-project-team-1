@@ -20,3 +20,16 @@ The analysis exists in  `exp_share_regressions/exp_share_reg.Rmd` and shows the 
 
 ### Deliverables
 At the end of this project, we will present our findings in a presentation using Google slides. We will show the original and cleaned data sets in output folder and the pictures in images folder.
+
+
+### Sources
+
+E. McKernon, Fake news and the public. Harper’s Magazine 151, 528–536 (1925).
+
+J. H. Kuklinski, P. J. Quirk, J. Jerit, D. Schwieder, R. F. Rich, Misinformation and the currency of democratic citizenship. J. Polit. 62, 790–816 (2000). doi:10.1111/0022-3816.00033
+
+C. Silverman, “This analysis shows how viral fake election news stories outperformed real news on Facebook” (2016)
+
+D. Ruths, J. Pfeffer, Social media for large studies of behavior. Science 346, 1063–1064 (2014). doi:10.1126/science.346.6213.1063pmid:25430759
+
+S. Vosoughi, D. Roy, S. Aral, The spread of true and false news online. Science 359, 1146–1151 (2018). doi:10.1126/science.aap9559pmid:29590045
