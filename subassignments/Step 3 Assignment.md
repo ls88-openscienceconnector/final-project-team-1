@@ -28,7 +28,7 @@ pct_fake - percentage of all shares/exposures that were to/from any fake news si
  ### Null Hypothesis:
  Voters during the 2016 election are most likely to engage with fake news sources were conservative leaning, older, and highly engaged with political news
  
- ## Figure Specific:
+ #### Figure Specific:
  Fake News sources in aggregate politcal exposures increased during months closer to 2016 election day.
  
  ### Are there variables to group or sort by? 
